@@ -38,7 +38,23 @@
     <link href="assets/fonts/fontello.css" rel="stylesheet">
 
     <!-- Favicon -->
-    <!--<link rel="shortcut icon" href="assets/images/favicon.ico">-->
+    <link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+    <link rel="manifest" href="favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/faviconms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
 
     <!-- HTML5 elements and media queries Support for IE8 : HTML5 shim and Respond.js -->
     <!--[if lt IE 9]>
@@ -52,14 +68,15 @@
 <!-- ============================================================= HEADER ============================================================= -->
 
 <header class="dark-bg">
-        <div class="container">
-            <!-- ============================================================= LOGO ============================================================= -->
+        <!--<div class="container">-->
+            
             <div class="flex-container">
+                <!-- ============================================================= LOGO ============================================================= -->
                 <div class="flex-item item1 text-right">
                     <a href="index.php">
                         <img src="images/logo.png" class="logo" alt="">
                     </a>
-                </div>
+                </div><!--/.flex-item-->
                 <div class="flex-item item2 text-center">
                         <!--<h1>Sóng Biển Đông Tourist</h1>-->
                         <h1>
@@ -99,13 +116,10 @@
                             </svg>
 
                         </h1>
-                </div>
-            </div>
-
-
-            <!-- ============================================================= LOGO : END ============================================================= -->
-
-        </div><!-- /.container -->
+                </div><!--/.flex-item-->
+                <!-- ============================================================= LOGO : END ============================================================= -->    
+            </div><!--/.flex-container-->
+        <!--</div>--><!-- /.container -->
 </header>
 
 <!-- ============================================================= HEADER : END ============================================================= -->
@@ -129,26 +143,26 @@
             <div class="item">
                 <div class="container">
                     <img class="" src="images/dalat.png" width="720" height="480">
-                </div>
-            </div>
+                </div><!-- /.container -->
+            </div><!-- /.item -->
 
             <div class="item">
                 <div class="container">
                     <img class="" src="images/dongthap-angiang.png" width="720" height="480">
-                </div>
-            </div>
+                </div><!-- /.container -->
+            </div><!-- /.item -->
 
             <div class="item">
                 <div class="container">
                     <img class="" src="images/namdu-balua.png" width="720" height="480">
-                </div>
-            </div>
+                </div><!-- /.container -->
+            </div><!-- /.item -->
 
             <div class="item">
                 <div class="container">
                     <img class="" src="images/tiengiang.png" width="720" height="480">
-                </div>
-            </div>
+                </div><!-- /.container -->
+            </div><!-- /.item -->
         </div><!-- /.owl-carousel -->
     </section>
 
@@ -166,7 +180,7 @@
             <p class="text-center">Copyright © <?php echo date("Y"); ?> Sóng Biển Đông Tourist. All rights reserved.</p>
         </div><!-- .container -->
     </div><!-- .footer-bottom -->
-</footer>
+</footer><!-- .dark-bg -->
 
 <!-- ============================================================= FOOTER : END ============================================================= -->
 
