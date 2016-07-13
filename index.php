@@ -136,31 +136,31 @@
 
             <div class="item">
                 <div class="container">
-                    <img class="" src="images/binhba.png" width="720" height="480">
+                    <img class="" src="images/fix/binhba.png" width="720" height="480">
                 </div><!-- /.container -->
             </div><!-- /.item -->
 
             <div class="item">
                 <div class="container">
-                    <img class="" src="images/dalat.png" width="720" height="480">
+                    <img class="" src="images/fix/dalat.png" width="720" height="480">
                 </div><!-- /.container -->
             </div><!-- /.item -->
 
             <div class="item">
                 <div class="container">
-                    <img class="" src="images/dongthap-angiang.png" width="720" height="480">
+                    <img class="" src="images/fix/dongthap-angiang.png" width="720" height="480">
                 </div><!-- /.container -->
             </div><!-- /.item -->
 
             <div class="item">
                 <div class="container">
-                    <img class="" src="images/namdu-balua.png" width="720" height="480">
+                    <img class="" src="images/fix/namdu-balua.png" width="720" height="480">
                 </div><!-- /.container -->
             </div><!-- /.item -->
 
             <div class="item">
                 <div class="container">
-                    <img class="" src="images/tiengiang.png" width="720" height="480">
+                    <img class="" src="images/fix/tiengiang.png" width="720" height="480">
                 </div><!-- /.container -->
             </div><!-- /.item -->
         </div><!-- /.owl-carousel -->
@@ -177,6 +177,8 @@
 <footer class="dark-bg">
     <div class="footer-bottom">
         <div class="container inner">
+			<p class="text-center"><img class="" src="images/origin/songbiendong-SBD-c2opy.png" width="100%" height="100%"></p>
+			<p class="text-center">SĐT liên hệ: 0945.073.172</p>
             <p class="text-center">Copyright © <?php echo date("Y"); ?> Sóng Biển Đông Tourist. All rights reserved.</p>
         </div><!-- .container -->
     </div><!-- .footer-bottom -->
