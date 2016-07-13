@@ -178,9 +178,9 @@
     <div class="footer-bottom">
         <div class="container inner">
 			<p class="text-center">
-				<div class="container">
+				
                     <img class="" src="images/fix/songbiendong-SBD-c2opy.png">
-                </div><!-- /.container --></p>
+                
 			<p class="text-center">SĐT liên hệ: 0945.073.172</p>
             <p class="text-center">Copyright © <?php echo date("Y"); ?> Sóng Biển Đông Tourist. All rights reserved.</p>
         </div><!-- .container -->
