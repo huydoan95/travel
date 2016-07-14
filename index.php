@@ -74,7 +74,7 @@
                 <!-- ============================================================= LOGO ============================================================= -->
                 <div class="flex-item item1 text-right">
                     <a href="index.php">
-                        <img src="images/logo.png" class="logo" alt="">
+                        <img src="images/fix/logo.png" class="logo" alt="">
                     </a>
                 </div><!--/.flex-item-->
                 <div class="flex-item item2 text-center">
