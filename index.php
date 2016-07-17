@@ -104,7 +104,7 @@
                                          class="text-copy"></use>
                                     <use xlink:href="#s-text"
                                          class="text-copy"></use>
-                                    <use xlink:href="#s-text"
+                                    <useg xlink:href="#s-text"
                                          class="text-copy"></use>
                                     <use xlink:href="#s-text"
                                          class="text-copy"></use>
@@ -136,7 +136,7 @@
 
             <div class="item">
                 <div class="container">
-                    <img class="" src="images/fix/binhba.png" width="720" height="480">
+                    <img class="" src="images/binhba.png" width="100%" height="100%">
                 </div><!-- /.container -->
             </div><!-- /.item -->
 
