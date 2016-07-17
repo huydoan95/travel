@@ -74,7 +74,7 @@
                 <!-- ============================================================= LOGO ============================================================= -->
                 <div class="flex-item item1 text-right">
                     <a href="index.php">
-                        <img src="images/fix/logo.png" class="logo" alt="">
+                        <img src="images/fix/logo.png.webp" class="logo" alt="">
                     </a>
                 </div><!--/.flex-item-->
                 <div class="flex-item item2 text-center">
@@ -136,31 +136,31 @@
 
             <div class="item">
                 <div class="container">
-                    <img class="" src="images/binhba.png" width="100%" height="100%">
+                    <img class="" src="images/fix/binhba.png.webp" width="1024" style="padding-top: 90px;">
                 </div><!-- /.container -->
             </div><!-- /.item -->
 
             <div class="item">
                 <div class="container">
-                    <img class="" src="images/fix/dalat.png" width="720" height="480">
+                    <img class="" src="images/fix/dalat.png.webp" width="720" height="480">
                 </div><!-- /.container -->
             </div><!-- /.item -->
 
             <div class="item">
                 <div class="container">
-                    <img class="" src="images/fix/dongthap-angiang.png" width="720" height="480">
+                    <img class="" src="images/fix/dongthap-angiang.png.webp" width="720" height="480">
                 </div><!-- /.container -->
             </div><!-- /.item -->
 
             <div class="item">
                 <div class="container">
-                    <img class="" src="images/fix/namdu-balua.png" width="720" height="480">
+                    <img class="" src="images/fix/namdu-balua.png.webp" width="720" height="480">
                 </div><!-- /.container -->
             </div><!-- /.item -->
 
             <div class="item">
                 <div class="container">
-                    <img class="" src="images/fix/tiengiang.png" width="720" height="480">
+                    <img class="" src="images/fix/tiengiang.png.webp" width="720" height="480">
                 </div><!-- /.container -->
             </div><!-- /.item -->
         </div><!-- /.owl-carousel -->
@@ -178,7 +178,7 @@
     <div class="footer-bottom">
         <div class="container inner">
 			<p class="text-center">
-                    <img class="" src="images/fix/songbiendong-SBD-c2opy.png">
+                    <img width="150" src="images/fix/songbiendong.png.webp" style="border-radius: 3px; margin-bottom: 20px;">
 			<p class="text-center">SĐT liên hệ: 0945.073.172</p>
 			<p class="text-center">Email: songbiendongtourist@gmail.com</p>
             <p class="text-center">Copyright © <?php echo date("Y"); ?> Sóng Biển Đông Tourist. All rights reserved.</p>
