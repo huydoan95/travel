@@ -104,7 +104,7 @@
                                          class="text-copy"></use>
                                     <use xlink:href="#s-text"
                                          class="text-copy"></use>
-                                    <useg xlink:href="#s-text"
+                                    <use xlink:href="#s-text"
                                          class="text-copy"></use>
                                     <use xlink:href="#s-text"
                                          class="text-copy"></use>
